@@ -16,7 +16,7 @@ const middleware = (req) => {
     } else {
       url.pathname = `/_sites/${currentHost}${pathname}`;
     }
-
+    console.log(url.pathname)
     return NextResponse.rewrite(url);
   }
 };

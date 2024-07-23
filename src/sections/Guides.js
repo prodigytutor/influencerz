@@ -7,7 +7,7 @@ const Guides = () => {
             Guides
           </h6>
           <h2 className="text-4xl font-bold text-center">
-            <span className="block">Supercharge your website</span>
+            <span className="block">Define your niche and audience</span>
           </h2>
           <p className="text-center text-gray-600">
             Lorem ipsum dolor sit amet
